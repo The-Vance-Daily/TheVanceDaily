@@ -1,5 +1,21 @@
 [
   {
+    "id": "afd501439126",
+    "title": "Trump&#x27;s Russia waiver draws instant bipartisan backlash",
+    "source": "Axios",
+    "source_url": "",
+    "source_domain": "",
+    "link": "https://www.axios.com/2026/10/17/trump-russia-waiver-putin-republicans-democrats",
+    "published": "2026-10-17T18:13:28+00:00",
+    "published_display": "Oct 17, 2026",
+    "query": "direct_feed",
+    "image": "",
+    "real_url": "https://www.axios.com/2026/10/17/trump-russia-waiver-putin-republicans-democrats",
+    "bias": "C",
+    "topic": "Foreign Policy",
+    "region": "US"
+  },
+  {
     "id": "e685c2d05653",
     "title": "2026 midterm elections: Follow live fact-checks",
     "source": "PolitiFact",
@@ -256,6 +272,22 @@
     "region": "US"
   },
   {
+    "id": "70652cf5de2a",
+    "title": "Iran War Tears Apart White House Unity; Vance Openly Opposes Trump&#x27;s Military Action",
+    "source": "The Times of India",
+    "source_url": "https://timesofindia.indiatimes.com",
+    "source_domain": "timesofindia.indiatimes.com",
+    "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNQklQT2dfSDI4b3VoV2ZoYlRvQWxFVjR0N214Vl9GdTNLMWR5SENTemcyWVdrNmMxMXNlLVA5XzM5ZFhMcFZNU2txV3ZJd000eDlBM0tHTHFsRzJKbXA3YzdSa1pLNkRGaHFobWcxbnpEZWloQmZpOVRXSy1rTkRiY0h0VElnTjVoeXh6Vnl1cERqZG1MdWJLV2JTS09BdzhqTTJ0VExUMUQ3RlQ0ZWlPdm5kX1ZwajNNaGVvZVhxZlhHLXh6MXF0UWNkTk16OVNuR1JHVGM3U3Zwd3VOc0ZHeXdYQWZCVVJDakxTcFRKUFVqYklDQjIyUl9XcFhkQdIBgwJBVV95cUxPNUstN095bUV4ZkZiZlc4Skx2WnprTXhKZEluUFMyR1dVazRHM0dkNTNaOExHbDlib0tlY3lhN3RnNk1xcy1PelNtZU10VjhBNTV6TEUxeGNyUXNNMzVsVHlZOWdnOTR6MERKVE9JRkEyU3o5NmxVWWtpX3JNTFdBWER4X2MxRWEtc3l5c2tKSDlPSl80RVhLNUJ0TlRoQnNnOWhQRkdYQWNPY2hFR3RxR2kwV0xzbXhVZ0prV2tDeE9yM25mWW5WVjdrWWpWVUV6NTZrcVdJVVd5T0N2TjlTOXlDTHV3WmZQUTh1bjI5Tk9PN2hLd0gzZFZkcFdUcll3Rlhz?oc=5",
+    "published": "2026-10-17T09:23:00+00:00",
+    "published_display": "Oct 17, 2026",
+    "query": "JD Vance",
+    "image": "",
+    "real_url": "",
+    "bias": "LL",
+    "topic": "Iran",
+    "region": "Asia"
+  },
+  {
     "id": "7e27d7c6b9e6",
     "title": "JD Vance attack on James Talarico shows how nastiness of his tongue",
     "source": "The Columbus Dispatch",
@@ -462,6 +494,22 @@
     "bias": "?",
     "topic": "General",
     "region": "US"
+  },
+  {
+    "id": "1749c4eecb2f",
+    "title": "Jewish Dems launch ad blitz blasting Young Republicans who praised Hitler",
+    "source": "The Times of Israel",
+    "source_url": "https://www.timesofisrael.com",
+    "source_domain": "www.timesofisrael.com",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOd2xQcHpRWXJPcnYweEZoV3BoQnZyQWdQREhEM0p2OHBhREFKOF9ud1hzR2VVUklLRG1vOVFlTTF3aHJzZEZSRkhlR3NuS01NXzlCTFplZTdoRkVSTlhENkNnSFprY0E0YW1oNGl4bFl4NzE0RVJ5eFZpNDJFLXcydDh3aEF3TjFiSFJmZjU0TU9DMmRfZnc5UzVhWGtvX250dVExN0Nob9IBrAFBVV95cUxNMXR4bS1TNjd6b3JOcmdXUjhaX2MzVkI5WHJaZTFuU0NDcUU1Y2FMc0Nfc0dsQThHNjh0T01yZ0xwZVFQLTNkZEVkSXZYemZKTmt6NGtUeWNac0pQS29mVjgzaGxodzJLS3hFX0tsTXVJWnp2QXFnVTdwS19YZVZobktnNkF4czVwYmk3NUVGTm5fX1NUaVQ2aUNoNXNyYXJ6MGtVcF9qaU11MURX?oc=5",
+    "published": "2026-10-17T03:09:51+00:00",
+    "published_display": "Oct 17, 2026",
+    "query": "Vance Republican",
+    "image": "",
+    "real_url": "",
+    "bias": "C",
+    "topic": "General",
+    "region": "Middle East"
   },
   {
     "id": "eee910a8b580",
