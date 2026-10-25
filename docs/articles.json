@@ -1,5 +1,21 @@
 [
   {
+    "id": "e504c60bb141",
+    "title": "JD Vance Destroys The View!",
+    "source": "Facebook",
+    "source_url": "https://www.facebook.com",
+    "source_domain": "www.facebook.com",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRzRsdmF1QnpLY1JBU3k2R1NwcXByUXE4eTZJR3h0M0lCa0Z5c2JJWXFGQ0xPME54bEZ2V0NlZzRvVzFIRjJOVEdqaE5TTnAtSlg0U00xUENyclhib1V6M0hxTnpJSkpsWkkwbGF6U0l4eW9hZ05GU1hONUR4RDNVck4wYWtYS3JRbmxQYlV5ZkR5RFBXWDhkaGp3?oc=5",
+    "published": "2026-10-25T16:53:06+00:00",
+    "published_display": "Oct 25, 2026",
+    "query": "JD Vance",
+    "image": "",
+    "real_url": "",
+    "bias": "?",
+    "topic": "General",
+    "region": "US"
+  },
+  {
     "id": "a3e3206a0d7d",
     "title": "Governor Shapiro calls Vice President Vance &#x27;pathetically weak&#x27; for defending Vivek Ramaswamy&#x27;s ad of Amy Acton&#x27;s mother.",
     "source": "CNN",
@@ -60,6 +76,22 @@
     "image": "",
     "real_url": "",
     "bias": "C",
+    "topic": "2028 Race",
+    "region": "US"
+  },
+  {
+    "id": "289468871ba0",
+    "title": "Kamala Harris Returns To Campaign Trail With A 76-Word Head-Scratcher",
+    "source": "The Daily Wire",
+    "source_url": "",
+    "source_domain": "",
+    "link": "https://www.dailywire.com/news/kamala-harris-returns-to-campaign-trail-with-a-76-word-head-scratcher",
+    "published": "2026-10-25T12:36:32+00:00",
+    "published_display": "Oct 25, 2026",
+    "query": "direct_feed",
+    "image": "https://dw-wp-production.imgix.net/2026/10/HarrisNH.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=1200&h=800&ixlib=react-9.11.0",
+    "real_url": "https://www.dailywire.com/news/kamala-harris-returns-to-campaign-trail-with-a-76-word-head-scratcher",
+    "bias": "R",
     "topic": "2028 Race",
     "region": "US"
   },
