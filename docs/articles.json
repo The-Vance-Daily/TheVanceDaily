@@ -1,5 +1,37 @@
 [
   {
+    "id": "b0ed70daed45",
+    "title": "Election night opens with Trump in battle mode",
+    "source": "Axios",
+    "source_url": "",
+    "source_domain": "",
+    "link": "https://www.axios.com/2026/11/03/election-day-midterm-trump-democrats-republicans",
+    "published": "2026-11-03T20:17:21+00:00",
+    "published_display": "Nov 03, 2026",
+    "query": "direct_feed",
+    "image": "",
+    "real_url": "https://www.axios.com/2026/11/03/election-day-midterm-trump-democrats-republicans",
+    "bias": "C",
+    "topic": "2028 Race",
+    "region": "US"
+  },
+  {
+    "id": "b37e85f0bb45",
+    "title": "An Atlanta Recovery Center is Using AI To Connect With Vulnerable Patients",
+    "source": "Newsweek",
+    "source_url": "",
+    "source_domain": "",
+    "link": "https://www.newsweek.com/pro/health-care/atlanta-health-center-ai-vulnerable-patients-12652306",
+    "published": "2026-11-03T15:36:36-05:00",
+    "published_display": "Nov 03, 2026",
+    "query": "direct_feed",
+    "image": "https://assets.newsweek.com/wp-content/uploads/2026/11/IMG-20261023-090137678-HDR-AE.jpg?w=1200&crop=1",
+    "real_url": "https://www.newsweek.com/pro/health-care/atlanta-health-center-ai-vulnerable-patients-12652306",
+    "bias": "LL",
+    "topic": "Tech & AI",
+    "region": "US"
+  },
+  {
     "id": "b6b2d44e590b",
     "title": "Asia-Pacific&#x27;s Best Employers of 2027",
     "source": "TIME",
@@ -110,6 +142,22 @@
     "bias": "C",
     "topic": "General",
     "region": "Asia"
+  },
+  {
+    "id": "fd47acf42d03",
+    "title": "Why it could take a while to know who will control Congress",
+    "source": "PBS News Hour",
+    "source_url": "",
+    "source_domain": "",
+    "link": "https://www.pbs.org/newshour/politics/why-it-could-take-a-while-to-know-who-will-control-congress",
+    "published": "2026-11-03T11:40:28-05:00",
+    "published_display": "Nov 03, 2026",
+    "query": "direct_feed",
+    "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/capitol-1024x683.jpg",
+    "real_url": "https://www.pbs.org/newshour/politics/why-it-could-take-a-while-to-know-who-will-control-congress",
+    "bias": "LL",
+    "topic": "Domestic",
+    "region": "US"
   },
   {
     "id": "d9b056099855",
