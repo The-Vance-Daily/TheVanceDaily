@@ -1,5 +1,21 @@
 [
   {
+    "id": "833c2bbdddef",
+    "title": "The MAGA-lomaniacs who could drag America into the abyss",
+    "source": "The Hill",
+    "source_url": "",
+    "source_domain": "",
+    "link": "https://thehill.com/opinion/white-house/6219083-midterm-rebuke-trump-gop/",
+    "published": "2026-11-14T19:00:00+00:00",
+    "published_display": "Nov 14, 2026",
+    "query": "direct_feed",
+    "image": "",
+    "real_url": "https://thehill.com/opinion/white-house/6219083-midterm-rebuke-trump-gop/",
+    "bias": "C",
+    "topic": "General",
+    "region": "US"
+  },
+  {
     "id": "a4d021322053",
     "title": "A potential 2028 candidate takes himself out of the running, as others gear up",
     "source": "The Washington Post",
@@ -3483,6 +3499,22 @@
     "query": "JD Vance",
     "image": "",
     "real_url": "",
+    "bias": "LR",
+    "topic": "Immigration",
+    "region": "US"
+  },
+  {
+    "id": "6253b6fd11fc",
+    "title": "J.D. Vance Used Peanut the Squirrel To Attack Government Overreach. So Why Has ICE Detained Peanut&#x27;s Owner?",
+    "source": "Reason Magazine",
+    "source_url": "",
+    "source_domain": "",
+    "link": "https://reason.com/2026/11/12/j-d-vance-used-peanut-the-squirrel-to-attack-government-overreach-so-why-has-ice-detained-peanuts-owner/",
+    "published": "2026-11-12T21:05:20+00:00",
+    "published_display": "Nov 12, 2026",
+    "query": "direct_feed",
+    "image": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/11/PeanutDetain.jpg-1024x576.png",
+    "real_url": "https://reason.com/2026/11/12/j-d-vance-used-peanut-the-squirrel-to-attack-government-overreach-so-why-has-ice-detained-peanuts-owner/",
     "bias": "LR",
     "topic": "Immigration",
     "region": "US"
